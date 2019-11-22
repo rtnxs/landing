@@ -8,6 +8,11 @@
   color: black;
 }
 
+.button-green {
+  background: #8aba56;
+  color: #fff;
+}
+
 .button:hover {
   background: #6a9a36;
   transition: all ease .3s;
